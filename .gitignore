@@ -46,3 +46,4 @@ Desktop.ini
 .eslintcache
 coverage
 *.tsbuildinfo
+node_modules
